@@ -2,7 +2,7 @@
 
 import MVPCocoa
 
-public protocol ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_presenterProtocol___ {
+public class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_presenterProtocol___ {
 
 	private let presenter: ___VARIABLE_presenterProtocol___
 	

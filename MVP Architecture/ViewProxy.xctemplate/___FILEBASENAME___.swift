@@ -2,7 +2,7 @@
 
 import MVPCocoa
 
-public protocol ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_viewProtocol___ {
+public class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_viewProtocol___ {
 
 	private let view: ___VARIABLE_viewProtocol___
 	
