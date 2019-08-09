@@ -6,11 +6,12 @@ import MVPCocoa
 
 class ___FILEBASENAMEASIDENTIFIER___: UITableViewCell {
 
-  private let disposeBag = CompositeDisposeBag()
+	// TODO comment those if needed
+  // private let disposeBag = CompositeDisposeBag()
 
   override func prepareForReuse() {
     super.prepareForReuse()
-    disposeBag.clear()
+    // disposeBag.clear()
   }
 
   func bind(entity: ___VARIABLE_entityClass___) {
